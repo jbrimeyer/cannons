@@ -57,3 +57,7 @@ jspm_packages/
 
 # next.js build output
 .next
+
+
+# File generated from TypeScript compilation
+web/js/cannons.js
