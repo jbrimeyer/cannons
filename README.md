@@ -26,7 +26,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 6. Type git clone, and then paste the URL you copied in Step 3.
 
-7. git clone https://github.com/LtBackup/Cannon-Game.git
+7. git clone https://github.com/Jbrimeyer/cannons.git
 
 8. Press Enter and a new local cloned repository will be created. 
 
@@ -52,5 +52,5 @@ These instructions will get you a copy of the project up and running on your loc
 
 ##Development
 
-Our gravity based game is a borrowed theme from my classmates and friends at Northwestern University's Full Stack Web Development Program. I felt their Cannon-Ball Game add link to their github repo  is a perfect way to educate and involve students in learning about gravity while at the observatory. Our version does not use any of the technologies used in my classmates version because I wanted their idea and the chance to build our own from scratch. 
+Our gravity based game is a borrowed theme from my classmates and friends at Northwestern University's Full Stack Web Development Program. I felt their Cannon-Ball Game (add link to their github repo)  is a perfect way to educate and involve students in learning about gravity while at the observatory. Our version does not use any of the technologies used in my classmates version because I wanted the challenge of learning new technologies and to build this exhibit from scratch. 
 
