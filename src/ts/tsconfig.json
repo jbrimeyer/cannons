@@ -1,0 +1,15 @@
+{
+	"compilerOptions": {
+		"alwaysStrict": true,
+		"noEmitOnError": true,
+		"noImplicitAny": true,
+		"noImplicitThis": true,
+		"noUnusedLocals": true,
+		"preserveConstEnums": true,
+		"strictNullChecks": true,
+		"rootDir": "./",
+		"suppressImplicitAnyIndexErrors": true,
+		"target": "es5",
+		"outFile": "../../web/js/cannons.js"
+	}
+}

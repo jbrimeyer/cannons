@@ -36,8 +36,6 @@ build/Release
 node_modules/
 jspm_packages/
 
-# TypeScript v1 declaration files
-typings/
 
 # Optional npm cache directory
 .npm
@@ -59,3 +57,7 @@ typings/
 
 # next.js build output
 .next
+
+
+# File generated from TypeScript compilation
+web/js/cannons.js
