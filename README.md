@@ -1,6 +1,5 @@
 # Cannons
-
-Cannon Man is a fun and exciting 2 player shooting game inspired by the classic Flash game Bowman. The object of the game is to be the first one to shoot down your opponents cannon and you win. 
+Cannons is a game that was inspired by my classmates successful game called Cannon Man. It is a terrific 2 player shooting game that will help players understand the effects of gravity. The object of the game is to be the first one to shoot down your opponents cannon.  
 
 
 ### Screenshot 1
