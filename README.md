@@ -1,5 +1,5 @@
 # Cannons
-Cannons is a game that was inspired by my classmates successful game called Cannon Man. It is a terrific 2 player shooting game that will help players understand the effects of gravity. The object of the game is to be the first one to shoot down your opponents cannon.  
+Cannons is a game that was inspired by my Northwestern University classmates' successful game called Cannon Man. Our version is a terrific 1 player shooting game that introduces the player to principles of gravity. The object of the game is to shoot down your target. 
 
 
 ### Screenshot 1
